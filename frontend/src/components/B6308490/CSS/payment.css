@@ -1,0 +1,10 @@
+p {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    color: #000;
+  }
